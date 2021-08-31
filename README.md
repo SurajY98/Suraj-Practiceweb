@@ -1,2 +1,2 @@
 # Suraj-Practiceweb
-This is a normal website like where a client show out skills and hobbies.
+This is a normal website like where a client show our skills and hobbies.
